@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: CanerBank.Login
+Class-Path: lib/mysql-connector-j-8.2.0.jar
+
